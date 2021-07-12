@@ -1,3 +1,9 @@
 /out
+
+# echidna
 crytic-export/
 corpus/
+
+# certora
+.*certora*
+.last_confs/
